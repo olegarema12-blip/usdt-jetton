@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "Demo USDT Jetton on TON",
+  "image": "https://raw.githubusercontent.com/olegarema12-blip/usdt-jetton/main/444.jpg"
+}
